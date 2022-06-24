@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 <img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api?username=MiqueasVanore&theme=jolly "/>
+<img align="left" width= "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueasVanore&theme=jolly&layout=compact&&lang_count=6"/>
